@@ -1,8 +1,8 @@
 # DSC212: Graph Theory  
 ### Research Assignment — *Modularity on the Karate Club Graph*  
 
-**Name:** Harsh Suthar  
-**Roll Number:**IMS24101 
+**Name:** Akash Itkalwar  
+**Roll Number:**IMS24014 
 
 ---
 
@@ -83,5 +83,5 @@ Even with modest modularity (Q = 0.1643), the algorithm effectively identifies m
 ---
 
 **Submitted by:**  
-*Harsh Suthar*  
+*Akash Itkalwar*  
 2nd Year BS–MS Student, IISER Thiruvananthapuram  
